@@ -25,7 +25,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on CodeForces and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ahmad\tAbbas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadabbas8/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AhmadAbbas8-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadabbas8/)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
