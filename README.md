@@ -16,7 +16,7 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
 - :telescope: I’m working as a Software Engineer and contributing to Mobile Applications .
@@ -63,6 +63,7 @@ Vacations - advances - resignations - excuses for not working.
  <a href="https://apps.apple.com/eg/app/hds-system/id6451339654" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
+
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
