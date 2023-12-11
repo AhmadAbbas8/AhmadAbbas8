@@ -25,8 +25,45 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on CodeForces and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AhmadAbbas8-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadabbas8/)
-### :hammer_and_wrench: Languages and Tools :
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AhmadAbbas8-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadabbas8/)
+
+<hr>
+
+<h2> Samples from my projects </h2>
+
+## HDS System
+
+beneficiaries of the system.
+
+1- Personnel Affairs Officers.
+
+2- Administrators and supervisors.
+
+3- Employee self-service.
+
+beneficiaries of the system
+
+Personnel Affairs Officers: -
+
+they can work out the procedures for leaves, advances and resignations, in addition to entering excuses for non-working hours for employees.
+
+It is also possible to make approvals for requests and procedures received by the employee according to the order of his approval in the approvals system in force in the main system of the company.
+
+Administrators and supervisors:
+
+they can follow up the business through important reports and statistics on employment (nationalities, Saudization rates, and salaries), in addition to the distribution of Saudization and salaries to departments or cost centers in the company.
+
+Employee self-service:
+
+The employee can view his job file and his historical procedures - in addition to making requests
+
+Vacations - advances - resignations - excuses for not working.
+
+<!-- <p><a href="https://play.google.com/store/apps/details?id=com.HDS-system.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> -->
+ <a href="https://apps.apple.com/eg/app/hds-system/id6451339654" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -41,7 +78,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmadabbas8&theme=bear&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabbas8)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabbas8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
